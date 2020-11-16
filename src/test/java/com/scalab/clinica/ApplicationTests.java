@@ -1,4 +1,4 @@
-package com.scalab.clase22;
+package com.scalab.clinica;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
